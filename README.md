@@ -1,6 +1,6 @@
 # Robot Transporter berbasis forward dan invers kinematics
 
-Proyek ini berisi program Arduino untuk robot **differential drive** berbasis board ESP32-compatible. Robot dapat bergerak menuju koordinat target dengan dua strategi navigasi, membaca odometri dari encoder roda, menerima input melalui keypad, menampilkan status pada LCD I2C, serta mengoperasikan gripper servo dan mekanisme lift.
+Proyek ini berisi program Arduino untuk robot **differential drive** berbasis board ESP32 S3. Robot dapat bergerak menuju koordinat target dengan dua strategi navigasi, membaca odometri dari encoder roda, menerima input melalui keypad, menampilkan status pada LCD I2C, serta mengoperasikan gripper servo dan mekanisme lift.
 
 ## Fitur Utama
 
@@ -17,7 +17,7 @@ Proyek ini berisi program Arduino untuk robot **differential drive** berbasis bo
 
 ## Hardware yang Digunakan
 
-- Board ESP32-compatible.
+- Board ESP32 S3.
 - 2 motor DC untuk sistem differential drive.
 - Driver motor untuk motor kiri dan kanan.
 - Encoder roda kiri dan kanan.
