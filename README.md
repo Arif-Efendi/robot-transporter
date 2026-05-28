@@ -1,4 +1,4 @@
-# Robot Differential Drive Dual Mode
+# Robot Transporter berbasis forward dan invers kinematics
 
 Proyek ini berisi program Arduino untuk robot **differential drive** berbasis board ESP32-compatible. Robot dapat bergerak menuju koordinat target dengan dua strategi navigasi, membaca odometri dari encoder roda, menerima input melalui keypad, menampilkan status pada LCD I2C, serta mengoperasikan gripper servo dan mekanisme lift.
 
@@ -149,4 +149,4 @@ Library `Wire` dan `math` biasanya sudah tersedia bersama core Arduino/ESP32. Li
 
 ## Lisensi
 
-Tambahkan lisensi sesuai kebutuhan sebelum repository dipublikasikan. Jika tidak ada batasan khusus, proyek ini dapat menggunakan **MIT License**.
+PROJEK INI UNTUK KEPENTINGAN UAS MATA KULIAH PRAKTIK ROBOTIKA
