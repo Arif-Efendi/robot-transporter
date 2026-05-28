@@ -139,13 +139,6 @@ Library `Wire` dan `math` biasanya sudah tersedia bersama core Arduino/ESP32. Li
 - Durasi `liftNaik()`, `liftTurun()`, dan `balikHome_Sederhana()` perlu dikalibrasi berdasarkan mekanik robot sebenarnya.
 - Jika posisi akhir tidak akurat, periksa diameter roda, jarak antar roda, resolusi encoder, slip roda, dan arah pemasangan motor.
 
-## Struktur Repository
-
-```text
-.
-|-- DONEEE.ino
-`-- README.md
-```
 
 ## Lisensi
 
